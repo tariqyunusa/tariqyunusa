@@ -6,5 +6,4 @@ I’m particularly drawn to building smooth, immersive interfaces that engage us
 
 Let’s build things that people not only use — but remember.
 
-![tariqyunusa's Stats](https://github-readme-stats.vercel.app/api?username=tariqyunusa&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![tariqyunusa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqyunusa&theme=dark&show_icons=true&hide_border=true&layout=compact)
